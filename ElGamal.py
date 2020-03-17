@@ -92,8 +92,6 @@ def get_X_Y(p_1,p_2):
     return result_X_Y
 
 def get_point(sec,point = {'x': 0,'y': 5585}, out = None):
-    # if not check(point):
-    #    return {'x': 0,'y': 5585}
     p_1 = point
     p_2 = point
     l=1
